@@ -40,7 +40,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.fstmen">
+  <component name="RunManager" selected="Application.Polidrom04">
     <configuration name="Arifmetic01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arifmetic01" />
       <module name="untitled8" />
@@ -55,8 +55,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Number010" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Number010" />
+    <configuration name="Polidrom04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Polidrom04" />
       <module name="untitled8" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Polidrom04" />
         <item itemvalue="Application.fstmen" />
         <item itemvalue="Application.ticket" />
         <item itemvalue="Application.Main01" />
         <item itemvalue="Application.Arifmetic01" />
-        <item itemvalue="Application.Number010" />
       </list>
     </recent_temporary>
   </component>
