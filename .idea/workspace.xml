@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44e1a7b7-10a0-41e8-9bf5-1da2ba1b75cf" name="Changes" comment="king01">
-      <change afterPath="$PROJECT_DIR$/src/Coin01.java" afterDir="false" />
+    <list default="true" id="44e1a7b7-10a0-41e8-9bf5-1da2ba1b75cf" name="Changes" comment="coin01">
+      <change afterPath="$PROJECT_DIR$/src/Watermelon01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663852123194</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="coin01">
+      <created>1663852638731</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1663852638732</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -148,7 +156,8 @@
     <MESSAGE value="fstm" />
     <MESSAGE value="poliprom" />
     <MESSAGE value="king01" />
-    <option name="LAST_COMMIT_MESSAGE" value="king01" />
+    <MESSAGE value="coin01" />
+    <option name="LAST_COMMIT_MESSAGE" value="coin01" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/untitled8$NumberTo10numbers.ic" NAME="NumberTo10numbers Coverage Results" MODIFIED="1662395444516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
