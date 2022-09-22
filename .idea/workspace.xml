@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44e1a7b7-10a0-41e8-9bf5-1da2ba1b75cf" name="Changes" comment="poliprom">
-      <change afterPath="$PROJECT_DIR$/src/Cake01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/King01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Work04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basketball.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/difirenytime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ladya.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/peoples03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ticket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fstmen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fstmen.java" afterDir="false" />
+    <list default="true" id="44e1a7b7-10a0-41e8-9bf5-1da2ba1b75cf" name="Changes" comment="king01">
+      <change afterPath="$PROJECT_DIR$/src/Coin01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663079215477</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="king01">
+      <created>1663852123194</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663852123194</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -150,7 +147,8 @@
     <MESSAGE value="Arifmetic01" />
     <MESSAGE value="fstm" />
     <MESSAGE value="poliprom" />
-    <option name="LAST_COMMIT_MESSAGE" value="poliprom" />
+    <MESSAGE value="king01" />
+    <option name="LAST_COMMIT_MESSAGE" value="king01" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/untitled8$NumberTo10numbers.ic" NAME="NumberTo10numbers Coverage Results" MODIFIED="1662395444516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
